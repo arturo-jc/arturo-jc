@@ -1,8 +1,12 @@
-### Hi there, I'm [Arturo](https://arturojc.com/) 👋
+# Hi there, I'm Arturo 👋
 
-I am a philosopher and self-taught developer based in Winnipeg, Manitoba, and I am currently seeking an internship or entry-level position.
+I am a philosopher and self-taught developer based in Winnipeg, Manitoba.
 
-I write about my journey into software development [over at my blog](https://arturojc355400397.wordpress.com/)
+## ✏️ Blog
+
+* [Making My First React App](https://arturojc355400397.wordpress.com/2022/01/06/making-my-first-react-app/)
+* [Making My First Express App](https://arturojc355400397.wordpress.com/2021/12/06/making-my-first-express-app/)
+* [Making My First Web App with Flask](https://arturojc355400397.wordpress.com/2021/10/21/reflections-on-making-my-first-web-application/)
 
 <!--
 **arturo-jc/arturo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
