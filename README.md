@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm [Arturo](https://arturojc.com/) 👋
+
+I am a philosopher and self-taught developer based in Winnipeg, Manitoba, and I am currently seeking an internship or entry-level position.
+
+I write about my journey into software development [over at my blog](https://arturojc355400397.wordpress.com/)
 
 <!--
 **arturo-jc/arturo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
