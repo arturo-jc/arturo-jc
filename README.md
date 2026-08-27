@@ -1,12 +1,12 @@
 # Hi there, I'm Arturo 👋
 
-I am a full stack developer based in Winnipeg, Manitoba. You can learn more about me in my [personal website](https://arturojc.com/).
+I am a full stack developer based in Winnipeg, Manitoba. You can learn more about me in my [personal website](https://arturojc.dev/).
 
 ## ✏️ Blog
 
-* [Making My First React App](https://arturojc.com/react/2022/01/06/making-my-first-react-app.html)
-* [Making My First Express App](https://arturojc.com/express/2021/12/06/making-my-first-express-app.html)
-* [Making My First Web App with Flask](https://arturojc.com/flask/2021/10/21/making-my-first-web-app-with-flask.html)
+* [Making My First React App](https://arturojc.dev/react/2022/01/06/making-my-first-react-app.html)
+* [Making My First Express App](https://arturojc.dev/express/2021/12/06/making-my-first-express-app.html)
+* [Making My First Web App with Flask](https://arturojc.dev/flask/2021/10/21/making-my-first-web-app-with-flask.html)
 
 <!--
 **arturo-jc/arturo-jc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
